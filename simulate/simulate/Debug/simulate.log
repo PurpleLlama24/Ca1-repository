@@ -1,0 +1,10 @@
+﻿  Simulate.cpp
+c:\users\sarah\documents\visual studio 2015\projects\simulate\simulate\simulate.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\simulate\simulate\simulate.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\simulate\simulate\simulate.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\simulate\simulate\simulate.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\simulate\simulate\simulate.cpp(144): warning C4018: '<': signed/unsigned mismatch
+  Job.cpp
+  Generating Code...
+  simulate.vcxproj -> c:\users\sarah\documents\visual studio 2015\Projects\simulate\Debug\simulate.exe
+  simulate.vcxproj -> c:\users\sarah\documents\visual studio 2015\Projects\simulate\Debug\simulate.pdb (Partial PDB)
